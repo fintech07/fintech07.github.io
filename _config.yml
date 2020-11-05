@@ -46,16 +46,17 @@ linkedin_username: https://www.linkedin.com/in/jonas-l-571b2b1b8/
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /assets/images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Dedicated and experienced Software Engineer, helps developing applications using .Net Technologies and javascript. 
-  Advanced in finance technologies such as stock trading and core infrastructure systems, algorithmic trading systems, 
-  has developed executable and web-based software solutions for stock markets such as Forex, Metals.
+  Talented and 9+ years of experienced Trading System Developer with exceptional
+  computer science background and expertise developing algorithmic systems in the
+  financial services industry. You will save time by wrapping up your project with my 9+
+  years of experience in :
 
   Specialised in 
-    - C#, Python, C++
-    - Algorithms
-    - Fix messaging
-    - MT4 api integration
-    - Automated trading system development
+    - auto trading system development with FIX API, MT4 API
+    - algorithmic trading strategies
+    - management number of forex accounts
+    - big investment management
+    - strong experience in China and global stock markets
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -69,7 +70,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - **SKILLS** : C/C++, C#, OOP, Design Pattern, WPF, Python, SciChart, Git, JIRA, Pandas, Numpy, Algorithms, Math, Django, DevOps, Javascript, React, Redux, HTML5, CSS, SASS
+  - **SKILLS** : MT4 API, FIX protocol, HFT development, Q7 future API, Risk management, Portfolio management, C++ STL/MultiThreading, C#, Python, Java, RabbitMQ, SQL, NoSQL, Algorithms, Mathematics
   - **Interests** : Swimming, Body Building, Music
 
 # Footer

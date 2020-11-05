@@ -3,34 +3,21 @@
   company: SA ASSET
   #link: Link to company (optional)
   job_title: Senior Software Engineer
-  dates: July 2018 - present
+  dates: July 2014 - present
   #quote: >
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    - Creates and maintains software solutions for exchange markets using C++, C#, RabbitMQ, MT4 Server.
-    - Develop algorithmic trading system and administration web server using C#, FIX messaging, MT4 API, Python
-    - Build C# application that subscribes to FIX trade report using C#, FIX messaging, XML, CSV
-
-- layout: left
-  company: FX Consultant and Sales
-  #link: Link to company (optional)
-  job_title: Software Engineer
-  dates: April 2016 - July 2018
-  # quote: >
-  # Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Upgrade complex trading system to well-designed system using C#
-    - Optimized order booking system for number of requests form users.
-    - Data analysis and monitoring by using python libraries such as Pandas, Numpy, matplotlib, SciPy, Jupyter Notebook.
-    - Developed Web Application for supporting using Node.js, React.js, MongoDB.
-
-- layout: left
-  company: Epoch Capital
-  #link: Link to company (optional)
-  job_title: Software Engineer
-  dates: November 2012 - March 2016
-  # quote: >
-  # Short description of the company (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Developed strategy in C++ working side by side with portfolio manager.
-    - Research for trading strategy, developed and evaluation strategies, financial data analysis.
+    - Algorithmic Trading with big investment(¥10,000,000 + $3000,000), made 5+ % profit every month
+    - Systemic forex trading with 50+ forex accounts
+    - System trading experience in China, Japan, global markets:
+      - TOCOM (TOPIX, JPX-Nekkei400), LME(SPOT GOLD, SILVER, PALLADIUM), Bitcoin
+      - China Gold Exchange, China Future Exchange, Security Exchange
+    - Developed Sports betting, Online Casino high frequency trading system
+    - MT4 API, FIX API, Q7 API integration
+    - Web automation for systemic trading
+    - Experienced with portfolio management, risk management
+    - Research of profitable trading strategies and implemented pair trading, arbitrage trading system
+    - Analyze system performance and trading results to find ways to improve efficiency executions
+    - Provide execution repots to traders and clients to demonstrate trading performance and convey execution details
+    - Agile development - TDD, Unit tests, Code reviews
+    - Developed web sites for monitoring performance
