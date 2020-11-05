@@ -70,7 +70,7 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  - **SKILLS** : MT4 API, FIX protocol, HFT development, Q7 future API, Risk management, Portfolio management, C++ STL/MultiThreading, C#, Python, Java, RabbitMQ, SQL, NoSQL, Algorithms, Mathematics
+  - **SKILLS** : MT4 API, FIX protocol, HFT development, Q7 future API, Risk management, Portfolio management, C++ STL/MultiThreading, C#, Python, Java, RabbitMQ, SQL, NoSQL, Algorithms, Mathematics, HTML/CSS, React, Node.js, Django
   - **Interests** : Swimming, Body Building, Music
 
 # Footer
